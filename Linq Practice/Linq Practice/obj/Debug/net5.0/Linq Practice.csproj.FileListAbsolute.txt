@@ -1,0 +1,16 @@
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\bin\Debug\net5.0\Linq Practice.exe
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\bin\Debug\net5.0\Linq Practice.deps.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\bin\Debug\net5.0\Linq Practice.runtimeconfig.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\bin\Debug\net5.0\Linq Practice.runtimeconfig.dev.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\bin\Debug\net5.0\Linq Practice.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\bin\Debug\net5.0\ref\Linq Practice.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\bin\Debug\net5.0\Linq Practice.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\obj\Debug\net5.0\Linq Practice.csproj.AssemblyReference.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\obj\Debug\net5.0\Linq Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\obj\Debug\net5.0\Linq Practice.AssemblyInfoInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\obj\Debug\net5.0\Linq Practice.AssemblyInfo.cs
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\obj\Debug\net5.0\Linq Practice.csproj.CoreCompileInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\obj\Debug\net5.0\Linq Practice.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\obj\Debug\net5.0\ref\Linq Practice.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\obj\Debug\net5.0\Linq Practice.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Linq Practice\Linq Practice\Linq Practice\obj\Debug\net5.0\Linq Practice.genruntimeconfig.cache
